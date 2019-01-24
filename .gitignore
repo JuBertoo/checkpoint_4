@@ -1,0 +1,23 @@
+backend/movieDb/node_modules/
+
+# dependencies
+frontend/movie-db-frontend/node_modules
+frontend/movie-db-frontend/.pnp
+frontend/movie-db-frontend/.pnp.js
+
+# testing
+frontend/movie-db-frontend/coverage
+
+# production
+frontend/movie-db-frontend/build
+
+# misc
+frontend/movie-db-frontend/.DS_Store
+frontend/movie-db-frontend/.env.local
+frontend/movie-db-frontend/.env.development.local
+frontend/movie-db-frontend/.env.test.local
+frontend/movie-db-frontend/.env.production.local
+
+frontend/movie-db-frontend/npm-debug.log*
+frontend/movie-db-frontend/yarn-debug.log*
+frontend/movie-db-frontend/yarn-error.log*
